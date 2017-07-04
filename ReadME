@@ -1,2 +1,3 @@
 2017.05.02
 1.pic32mz2048efh hid communication
+2.usb hid occupy the first dynamic usb instance, and we must leave it free, and we use instance 1 and behind
